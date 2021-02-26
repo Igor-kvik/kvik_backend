@@ -1,4 +1,4 @@
-<p align="center"><a href="web-74.ru" target="_blank">site</a></p>
+<p align="center"><a href="https://web-74.ru" target="_blank">site</a></p>
 
 
 ## License
